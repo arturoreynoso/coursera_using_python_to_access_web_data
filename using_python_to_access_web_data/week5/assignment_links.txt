@@ -1,0 +1,4 @@
+Extracting Data from XML
+
+Sample data: http://py4e-data.dr-chuck.net/comments_42.xml
+Actual data: http://py4e-data.dr-chuck.net/comments_1194082.xml

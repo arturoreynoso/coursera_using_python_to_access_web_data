@@ -1,2 +1,9 @@
+Following Links in HTML Using BeautifulSoup
+
+Sample problem: http://py4e-data.dr-chuck.net/known_by_Fikret.html
+Actual problem: http://py4e-data.dr-chuck.net/known_by_Firaaz.html
+
+Scraping Numbers from HTML using BeautifulSoup
+
 Sample data: http://py4e-data.dr-chuck.net/comments_42.html
 Actual data: http://py4e-data.dr-chuck.net/comments_1194080.html
